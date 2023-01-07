@@ -96,7 +96,6 @@ header{
 
 /* Love to do section */
 .love-to-do-section{
-    /* background-color: #1d293a; */
     background-color: #111a28;
     padding: 80px 0;
 }
@@ -177,7 +176,7 @@ header{
 
 /* footer-section */
 footer{
-    background-color: #151414;
+    background-color: #111a28;
 }
 .footer-item-parent{
     display: flex;
