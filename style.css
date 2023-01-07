@@ -214,6 +214,7 @@ footer{
     padding: 20px;
     border: 1px solid #fff;
     margin: 25px 0;
+    color: #fff;
 }
 .footer-right input::placeholder{
     color: #fff;
